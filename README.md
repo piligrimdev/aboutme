@@ -45,12 +45,12 @@
 <a href="https://instagram.com/piligrimdev" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/piligrimdev" target="_blank">
+<a href="https://www.linkedin.com/in/pgdev/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://t.me/piligrimdev" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a> 
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
